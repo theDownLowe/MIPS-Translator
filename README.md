@@ -1,2 +1,2 @@
 # MIPS-Translator
-Translates basic machine language into MIPS code then executes the code give.
+A C program that translates MIPS code into binary then executes the given code.
